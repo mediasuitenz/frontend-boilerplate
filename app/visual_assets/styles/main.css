@@ -1,0 +1,22 @@
+/* RESET */
+
+a, h1, h2 ,h3, ul, ul li, li, button, img, div, embed, object{
+  padding:0;
+  margin:0;
+  border:none;
+  outline:none;
+  background-color:transparent;
+  }
+
+/* GLOBAL */
+
+body, html{margin:0; width:100%; min-width:980px; font-family:Arial, Helvetica, sans-serif; color:#565656; font-size:12px;}
+*{box-sizing:border-box;}
+h1, h2, h3{font-family: 'Open Sans', sans-serif; font-weight:normal; color:#959595;}
+h1{ font-size:24px; margin-bottom:20px;}
+h2{ font-size:18px; margin-bottom:15px;}
+h3{ font-size:16px;}
+
+/* FORMS */
+
+/* ETC */

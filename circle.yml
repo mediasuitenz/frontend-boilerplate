@@ -1,0 +1,9 @@
+machine:
+  node:
+    version: 0.10.21
+test:
+  pre:
+    - nohup bash -c "npm run serve &"
+    - nohup bash -c "npm run selenium &"
+    - sleep 5
+
